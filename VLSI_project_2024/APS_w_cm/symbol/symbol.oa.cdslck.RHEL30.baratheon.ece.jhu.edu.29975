@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      xzhou87
+HostName                       baratheon.ece.jhu.edu
+ProcessIdentifier              29975
+ProcessCreationTime_UTC        1713309581
+ProcessCreationTime_Readable   Tue Apr 16 19:19:41 2024 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /raid/spring2024/xzhou87/BrianZ_introVLSI/VLSI_project_2024/APS_w_cm/symbol/symbol.oa.cdslck
+TimeEditLocked                 Tue Apr 16 19:22:50 2024 EDT
